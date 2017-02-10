@@ -9,7 +9,7 @@ color: yellow
 button:
   title: Get started
   url: https://manage.siteleaf.com/signup
-extended_header: true
+extended_header: false
 features:
 - title: 
   handle: intro
@@ -114,6 +114,11 @@ features:
   width: wide
   button: true
   body: Free for developers and open source projects.
+- title: 
+  handle: 
+  width: 
+  button: true
+  body: 
 image: "/assets/og-image.png"
 layout: index
 ---
