@@ -9,7 +9,7 @@ color: yellow
 button:
   title: Get started
   url: https://manage.siteleaf.com/signup
-extended_header: false
+extended_header: 
 features:
 - title: 
   handle: intro
