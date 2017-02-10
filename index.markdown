@@ -117,7 +117,7 @@ features:
 - title: 
   handle: 
   width: 
-  button: true
+  button: 
   body: 
 image: "/assets/og-image.png"
 layout: index
