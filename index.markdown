@@ -114,11 +114,6 @@ features:
   width: wide
   button: true
   body: Free for developers and open source projects.
-- title: This is a new section
-  handle: intro
-  width: wide
-  button: 
-  body: What will it be about
 image: "/assets/og-image.png"
 layout: index
 ---
